@@ -1,0 +1,9 @@
+.Xil/ 
+UART_FIFO.cache/ 
+UART_FIFO.hw/ 
+UART_FIFO.sim/ 
+UART_FIFO.ip_user_files/ 
+*.xpr 
+*.log 
+*.jou 
+tb_top_behav.wcfg 
